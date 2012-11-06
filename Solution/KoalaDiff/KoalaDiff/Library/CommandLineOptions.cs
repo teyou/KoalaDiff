@@ -14,7 +14,7 @@ namespace KoalaDiff.Library
         private const string HELP_SIDE_BY_SIDE_LAYOUT = "View the image in side by side mode";
         private const string HELP_OVERLAY_LAYOUT = "View the image in overlay mode";
         private const string HELP_OVERLAY_FLICKER_LAYOUT = "View the image in the overlay flicker mode";
-        private const string HELP_HIGHLIGHT = "Please specify the value between 1 and 19";
+        private const string HELP_HIGHLIGHT = "Please specify the value between 1 and 23";
         private const string HELP_MAXIMIZE = "Maximize the window when start the application";
         private const string HELP_NORMALSIZE = "Start the application within normal size";
         private const string HELP_DESCRIPTION_LEFT = "Description in the left side title bar";

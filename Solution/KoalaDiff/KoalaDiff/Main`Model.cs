@@ -45,9 +45,8 @@ namespace KoalaDiff
         /// <summary>
         /// Lookup table for the threshold value within image highlighting
         /// </summary>
-        private int[] _thresholdLookup = new int[] { 1, 3, 5, 10, 15, 30, 50, 75, 100, 125, 150, 175, 200, 225, 250 };
-        //1,3,5,10,15,30,50,75,100,125,150,175,200,225,250
-        //1, 3, 5, 10, 20, 40, 80, 120, 160, 200, 225, 250, 275, 300, 320, 340, 360, 380, 400 
+        private int[] _thresholdLookup = new int[] { 1, 2, 3, 5, 8, 10, 15, 23, 30, 40, 50, 63, 75, 88, 100, 125, 150, 175, 200, 225, 250, 275, 300 };
+        
         /// <summary>
         /// Recording the target imagebox for performing zoom action
         /// usage: prevent infinite zoom loop
