@@ -5,6 +5,9 @@ Image diff viewer application which can integrate with version control client so
 
 **Screenshot**
 
+![Side by side Layout with hightlight](https://github.com/teyou/KoalaDiff/blob/master/doc/images/layout-side-by-side.png)
+![alt text](https://github.com/teyou/KoalaDiff/blob/master/doc/images/layout-overlay.png "Overlay Layout with hightlight")
+
 **Command-Line Support**
     KoalaDiff [-?]  [-f] [-a]  [-s] [-o] [-v]  [-m] [-n]  [-h *highlightvalue*] [-l *leftdesc*] [-r *rightdesc*] *leftpath* *rightpath*
     
